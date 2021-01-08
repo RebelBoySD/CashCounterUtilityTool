@@ -167,7 +167,6 @@ void main()
             break;
         }
     }
-    /* Last Modified on 08 January 2021 07:45 PM */
 }
 float details(int acno)    /* This Function used to get Current Balance of Account */
 {
@@ -395,3 +394,4 @@ int valid(int acno) /* To check that given bank account number is valid or not *
     }
     return validity;
 }
+    /* Last Modified on 08 January 2021 07:50 PM */
